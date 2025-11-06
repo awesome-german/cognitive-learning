@@ -417,12 +417,12 @@ Schauen Sie sich die [Deutsch-Englisch-Wörterbuch-App für wissenschaftlich eff
 - [Aktive Abruftechniken](#aktive-abruftechniken)
 - [Gedächtnistechniken](#gedächtnistechniken)
 - [Neurowissenschaftliche Ansätze](#neurowissenschaftliche-ansätze)
-- [Tools und Apps](#tools-und-apps-1)
-- [Bücher und Forschung](#bücher-und-forschung-1)
-- [Online-Kurse](#online-kurse-1)
+- [Tools und Apps](#tools-und-apps)
+- [Bücher und Forschung](#bücher-und-forschung)
+- [Online-Kurse](#online-kurse)
 - [Gemeinschaft und Praxis](#gemeinschaft-und-praxis)
-- [Podcasts und Audio](#podcasts-und-audio-1)
-- [YouTube-Kanäle](#youtube-kanäle-1)
+- [Podcasts und Audio](#podcasts-und-audio)
+- [YouTube-Kanäle](#youtube-kanäle)
 - [Forschungsarbeiten](#forschungsarbeiten)
 
 ### Kernprinzipien
@@ -546,7 +546,7 @@ Schauen Sie sich die [Deutsch-Englisch-Wörterbuch-App für wissenschaftlich eff
 
 - **Easy German** - Straßeninterviews mit Untertiteln
 - **Learn German with Anja** - Grammatikerklärungen mit Mnemotechniken
-- **German with Jenny** - Strukturierte Lektionen mit Aufbewahrungstechniken
+- **German with Jenny** - Strukturierte Lektionen mit Behaltenstechniken
 - **Deutsch für Euch** - Grammatik und Kultur
 
 ### Forschungsarbeiten
