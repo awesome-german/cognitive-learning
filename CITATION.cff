@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "awesome-german/cognitive-learning"
+message: "If you use or reference this list, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - name: "Aesthetic Vulpes"
+    alias: didvc
+    website: "https://github.com/didvc"
+repository-code: "https://github.com/awesome-german/cognitive-learning"
+url: "https://github.com/awesome-german/cognitive-learning"
+license: CC-BY-4.0
+abstract: "Cognitive and neuroscience-based methods for efficient German acquisition."
+keywords:
+  - awesome-list
+  - german
+  - language-learning
+  - cognitive-learning

@@ -554,3 +554,27 @@ Schauen Sie sich die [Deutsch-Englisch-Wörterbuch-App für wissenschaftlich eff
 - **"Verteilte Praxis"** - Cepeda et al. (2006)
 - **"Die Kraft des Testens"** - Roediger & Karpicke (2006)
 - **"Zweitsprachenerwerb"** - Paradis (2009)
+
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [flashcards](https://github.com/awesome-german/flashcards): Best flashcard tools, decks, and spaced repetition strategies for memorizing German words and phrases.
+- [vocabulary](https://github.com/awesome-german/vocabulary): Curated resources and tools to expand German vocabulary by topic, frequency, and context.
+- [learning-tools](https://github.com/awesome-german/learning-tools): Apps and materials for German language and its comparison.
+
+<!-- END gh-mutual-linking -->
